@@ -6,5 +6,7 @@ package cn.imooc.demo.springboot.es.blogs.config;
  * @date: 2022/4/25-6:51 PM
  */
 public class GitTest {
-    aaaaaaaaaaaaaaaaa
+    public static void main(String[] args) {
+        System.out.println("hhhhhhhhhh");
+    }
 }
