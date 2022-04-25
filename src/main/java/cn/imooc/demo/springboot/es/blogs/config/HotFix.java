@@ -9,5 +9,6 @@ public class HotFix {
     public static void main(String[] args) {
         System.out.println("hot-fix!!!");
         System.out.println("I want you to show merge!!!");
+        System.out.println("here is master");
     }
 }
