@@ -10,5 +10,6 @@ public class HotFix {
         System.out.println("hot-fix!!!");
         System.out.println("I want you to show merge!!!");
         System.out.println("here is hot-fix");
+        System.out.println("here is master");
     }
 }
