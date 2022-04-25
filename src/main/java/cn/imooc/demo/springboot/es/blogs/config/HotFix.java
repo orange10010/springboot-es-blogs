@@ -1,0 +1,12 @@
+package cn.imooc.demo.springboot.es.blogs.config;
+
+/**
+ * @description:
+ * @author：zhangc
+ * @date: 2022/4/25-8:00 PM
+ */
+public class HotFix {
+    public static void main(String[] args) {
+        System.out.println("hot-fix!!!");
+    }
+}
